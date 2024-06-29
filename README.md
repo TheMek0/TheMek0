@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Python & Java & GoLang & Computer Science
 - 💞️ I’m looking to collaborate on people
 - 📫 How to reach me @themeko
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: they are not here
